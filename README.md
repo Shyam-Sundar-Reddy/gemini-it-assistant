@@ -27,19 +27,7 @@ This project is intentionally kept minimal as **v1**, focusing on correctness, c
 - **LangSmith** – LLM observability and tracing
 
 ---
-
-## 📂 Project Structure
  
-
-it-assistant-chat/
-│
-├── app.py            # Main Streamlit application
-├── requirements.txt  # Python dependencies
-├── .env              # Environment variables (not committed)
-└── README.md
-
- 
-
  
 
 ## 🚀 Getting Started

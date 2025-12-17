@@ -46,7 +46,7 @@ it-assistant-chat/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/it-assistant-chat.git](https://github.com/Shyam-Sundar-Reddy/gemini-it-assistant.git
+git clone https://github.com/Shyam-Sundar-Reddy/gemini-it-assistant.git
 cd it-assistant-chat
  
 

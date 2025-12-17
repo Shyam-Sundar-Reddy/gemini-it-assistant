@@ -1,8 +1,4 @@
-Perfect 👍
-Below is a **final, polished, copy-paste ready `README.md`** specifically written **about the project**, clean and professional, suitable for GitHub, interviews, and sharing.
-
- 
-# IT Assistant Chat 💬
+ # IT Assistant Chat 💬
 
 IT Assistant Chat is a simple, developer-focused chat application built using **Streamlit**, **LangChain**, and **Google Gemini**.  
 It helps IT teams and software developers quickly get clear explanations of common technical topics such as programming concepts, DevOps basics, system design fundamentals, and cloud computing.
@@ -50,7 +46,7 @@ it-assistant-chat/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/it-assistant-chat.git
+git clone https://github.com/your-username/it-assistant-chat.git](https://github.com/Shyam-Sundar-Reddy/gemini-it-assistant.git
 cd it-assistant-chat
  
 
